@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Joshua Harris 👋
 
+Creating worlds where imagination meets technology.
 
-**xarope12/xarope12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Skills
+- Flutter
+- Swift
+- Kotlin
+- React Native
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  
+## 📫 Contact
+- GitHub: https://github.com/xarope12
+- Email: xarope12@example.com
